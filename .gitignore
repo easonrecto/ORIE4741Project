@@ -1,3 +1,4 @@
 df
 *.csv
 wine_data.json/wine_data.json
+GoogleNews-vectors-negative300.bin
